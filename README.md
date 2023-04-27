@@ -1,2 +1,2 @@
 # WebHookServer
-TradingViewno用Webhook
+TradingView Webhook 用のサーバー
